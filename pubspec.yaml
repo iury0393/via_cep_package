@@ -1,7 +1,7 @@
-name: via_cep_search
+name: via_cep_package
 description: Um package para consulta de endereço via cep.
 version: 0.0.1
-homepage: iury0393.github.io/
+homepage: https://github.com/iury0393/via_cep_package
 
 environment:
   sdk: ">=2.7.0 <3.0.0"

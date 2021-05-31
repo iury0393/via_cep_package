@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:via_cep_search/via_cep_package.dart';
+import 'package:via_cep_package/via_cep_package.dart';
 
 void main() {
   runApp(MyApp());
